@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#### Second year web development student looking for work opportunities. <br>I come from a sales & marketing background and am experienced working in teams, developing and documenting products.
+#### Second year web development student. <br>I come from a sales & marketing background and am experienced working in teams, developing and documenting products.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lambergmiki)
